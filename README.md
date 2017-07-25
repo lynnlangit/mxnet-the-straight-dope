@@ -1,5 +1,5 @@
 # mxnet-the-straight-dope
-Much easy, so MXNet. Wow.
+Easier MxNet - this is a study repo for me.
 
 ## Abstract
 MXNet is widely used in production environments owing to its strong reputation for speed. Now with ``gluon``, MXNet's new imperative interface (alpha), doing research in MXNet is easy. 
